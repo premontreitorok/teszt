@@ -1,1 +1,1 @@
-print("Hello Világ6")
+print("Hello Világ7")
